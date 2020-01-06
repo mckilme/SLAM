@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/mckilme/slambook2/mynteyed/Read_images/build",
+  "command": "/usr/bin/c++  -DLOG_TAG=MYNTEYE -DWITH_OPENCV -DWITH_OPENCV3 -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mckilme/slambook2/mynteyed/Read_images/src -I/usr/include/vtk-6.3 -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu -I/usr/local/include/pcl-1.9 -I/usr/include/ni -I/usr/include/openni2 -isystem /home/mckilme/slambook2/3rdparty/Pangolin/include -isystem /home/mckilme/slambook2/3rdparty/Pangolin/build/src/include  -std=c++11 -Wall -O3 -std=c++11  -g   -o CMakeFiles/get_stereo_image.dir/src/get_stereo_image.cc.o -c /home/mckilme/slambook2/mynteyed/Read_images/src/get_stereo_image.cc",
+  "file": "/home/mckilme/slambook2/mynteyed/Read_images/src/get_stereo_image.cc"
+},
+{
+  "directory": "/home/mckilme/slambook2/mynteyed/Read_images/build",
+  "command": "/usr/bin/c++  -DLOG_TAG=MYNTEYE -DWITH_OPENCV -DWITH_OPENCV3 -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mckilme/slambook2/mynteyed/Read_images/src -I/usr/include/vtk-6.3 -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu -I/usr/local/include/pcl-1.9 -I/usr/include/ni -I/usr/include/openni2 -isystem /home/mckilme/slambook2/3rdparty/Pangolin/include -isystem /home/mckilme/slambook2/3rdparty/Pangolin/build/src/include  -std=c++11 -Wall -O3 -std=c++11  -g   -o CMakeFiles/get_stereo_image.dir/src/util/cam_utils.cc.o -c /home/mckilme/slambook2/mynteyed/Read_images/src/util/cam_utils.cc",
+  "file": "/home/mckilme/slambook2/mynteyed/Read_images/src/util/cam_utils.cc"
+},
+{
+  "directory": "/home/mckilme/slambook2/mynteyed/Read_images/build",
+  "command": "/usr/bin/c++  -DLOG_TAG=MYNTEYE -DWITH_OPENCV -DWITH_OPENCV3 -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mckilme/slambook2/mynteyed/Read_images/src -I/usr/include/vtk-6.3 -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu -I/usr/local/include/pcl-1.9 -I/usr/include/ni -I/usr/include/openni2 -isystem /home/mckilme/slambook2/3rdparty/Pangolin/include -isystem /home/mckilme/slambook2/3rdparty/Pangolin/build/src/include  -std=c++11 -Wall -O3 -std=c++11  -g   -o CMakeFiles/get_stereo_image.dir/src/util/cv_painter.cc.o -c /home/mckilme/slambook2/mynteyed/Read_images/src/util/cv_painter.cc",
+  "file": "/home/mckilme/slambook2/mynteyed/Read_images/src/util/cv_painter.cc"
+}
+]
